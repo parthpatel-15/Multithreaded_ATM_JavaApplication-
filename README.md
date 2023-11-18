@@ -4,7 +4,6 @@ This project demonstrates the basics of multithreading and synchronization in a 
 # Project Structure:
 <img width="459" alt="Screenshot 2023-11-18 at 12 20 07 PM" src="https://github.com/parthpatel-15/Multithreaded_ATM_JavaApplication-/assets/79576096/1d6ed328-5217-4095-8c44-a28991c86795">
 
-Here's a summary of the key components:
 # Account.java:
 Implements the Runnable interface, representing an account action performed by a thread.
 Defines a constructor that takes the amount and action (deposit or withdraw) as parameters.
