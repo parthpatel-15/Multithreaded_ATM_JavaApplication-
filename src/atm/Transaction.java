@@ -12,11 +12,11 @@ public class Transaction {
 
     }
 
-    public static synchronized void withdraw(int amount){            //withdraw action updated
+    public static synchronized void withdraw(int amount){            //withdraw action
         balance=balance-amount;
         System.out.println("------------------------------");
         System.out.println("your action : withdraw " );
-        System.out.println("withdraw amount : " +amount);
+        System.out.println("withdraw amount : " +amount); // fixed output bug
         System.out.println("balance after withdraw action : " +balance);
 
     }
