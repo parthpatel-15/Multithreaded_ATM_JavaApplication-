@@ -27,7 +27,8 @@ The application leverages multithreading to simulate multiple users performing A
 The ExecutorService efficiently manages thread execution.
 
 # OutPut:
-<img width="1318" alt="Screenshot 2023-11-18 at 12 19 43 PM" src="https://github.com/parthpatel-15/Multithreaded_ATM_JavaApplication-/assets/79576096/81a8d6eb-7f49-4562-b72a-cce4900ded19">
+<img width="1318" alt="Screenshot 2023-11-18 at 12 29 26 PM" src="https://github.com/parthpatel-15/Multithreaded_ATM_JavaApplication-/assets/79576096/ce518c93-ee8e-4902-b6c1-4f2c740059e3">
+
 
 
 
